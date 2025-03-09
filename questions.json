@@ -1,0 +1,752 @@
+[
+  {
+    "question": "Which part of the plant is primarily responsible for photosynthesis?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a modified stem?",
+    "options": ["Tuber", "Taproot", "Fibrous root", "Pneumatophore"],
+    "correct": 0
+  },
+  {
+    "question": "Which type of root system is found in monocots?",
+    "options": ["Taproot", "Fibrous root", "Adventitious root", "Nodular root"],
+    "correct": 1
+  },
+  {
+    "question": "What is the primary function of root hairs?",
+    "options": ["Anchorage", "Water absorption", "Photosynthesis", "Pollination"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of venation is found in monocot leaves?",
+    "options": ["Reticulate", "Parallel", "Spiral", "None"],
+    "correct": 1
+  },
+  {
+    "question": "Which part of a flower develops into the seed?",
+    "options": ["Ovary", "Ovule", "Petal", "Sepal"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of the following is an example of a compound leaf?",
+    "options": ["Mango", "Guava", "Neem", "Peepal"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of phyllotaxy has a single leaf at each node?",
+    "options": ["Opposite", "Whorled", "Alternate", "Compound"],
+    "correct": 2
+  },
+  {
+    "question": "Which plant part is modified into tendrils in pea plants?",
+    "options": ["Leaf", "Stem", "Root", "Flower"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a reproductive part of a plant?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "correct": 3
+  },
+  {
+    "question": "Which type of placentation is observed in mustard plants?",
+    "options": ["Basal", "Marginal", "Axile", "Parietal"],
+    "correct": 3
+  },
+  {
+    "question": "A fruit that develops without fertilization is called:",
+    "options": ["Drupe", "Parthenocarpic", "Aggregate", "Multiple"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a dry dehiscent fruit?",
+    "options": ["Berry", "Legume", "Nut", "Drupe"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is an underground stem modification?",
+    "options": ["Bulb", "Taproot", "Fibrous root", "Pneumatophore"],
+    "correct": 0
+  },
+  {
+    "question": "Which type of inflorescence is found in the sunflower?",
+    "options": ["Cymose", "Racemose", "Capitulum", "Umbel"],
+    "correct": 2
+  },
+  {
+    "question": "Which term describes a fruit developing from an ovary with other floral parts?",
+    "options": ["Simple fruit", "Aggregate fruit", "Multiple fruit", "False fruit"],
+    "correct": 3
+  },
+  {
+    "question": "The edible part of an apple is derived from the:",
+    "options": ["Ovule", "Ovary", "Thalamus", "Seed"],
+    "correct": 2
+  },
+  {
+    "question": "Which among the following is a characteristic of dicot plants?",
+    "options": ["Parallel venation", "Fibrous root system", "Two cotyledons", "Single cotyledon"],
+    "correct": 2
+  },
+  {
+    "question": "In pea plants, tendrils are modifications of the:",
+    "options": ["Leaf", "Stem", "Root", "Flower"],
+    "correct": 0
+  },
+  {
+    "question": "Which structure protects the young shoot tip?",
+    "options": ["Coleorhiza", "Coleoptile", "Radicle", "Plumule"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following plants exhibits whorled phyllotaxy?",
+    "options": ["China rose", "Neem", "Alstonia", "Sunflower"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following fruits is an example of a drupe?",
+    "options": ["Tomato", "Mango", "Cucumber", "Apple"],
+    "correct": 1
+  },
+  {
+    "question": "In maize, which part of the embryo helps in absorption?",
+    "options": ["Scutellum", "Endosperm", "Coleoptile", "Radicle"],
+    "correct": 0
+  },
+  {
+    "question": "Which part of a dicot seed grows into the root?",
+    "options": ["Plumule", "Cotyledon", "Radicle", "Scutellum"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of root modification is found in mangrove plants to help in respiration?",
+    "options": ["Taproot", "Pneumatophores", "Prop roots", "Fibrous roots"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following plants has a prop root system?",
+    "options": ["Maize", "Mango", "Banyan", "Rose"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of a root tuber?",
+    "options": ["Potato", "Ginger", "Carrot", "Onion"],
+    "correct": 2
+  },
+  {
+    "question": "Which part of a flower attracts pollinators?",
+    "options": ["Sepals", "Petals", "Stigma", "Ovary"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT a function of the stem?",
+    "options": ["Support", "Photosynthesis", "Water absorption", "Transport"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of placentation is found in pea plants?",
+    "options": ["Axile", "Basal", "Marginal", "Parietal"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a unisexual flower?",
+    "options": ["Hibiscus", "Rose", "Papaya", "Sunflower"],
+    "correct": 2
+  },
+  {
+    "question": "What is the function of the endosperm in a seed?",
+    "options": ["Photosynthesis", "Food storage", "Water absorption", "Gas exchange"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of inflorescence is found in mustard?",
+    "options": ["Spike", "Raceme", "Corymb", "Umbel"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is an aggregate fruit?",
+    "options": ["Mango", "Tomato", "Strawberry", "Banana"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of leaf modification is seen in Opuntia (cactus)?",
+    "options": ["Tendrils", "Spines", "Phyllode", "Succulent"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is an adventitious root?",
+    "options": ["Taproot of mango", "Nodular roots of legume", "Prop roots of banyan", "Fibrous roots of wheat"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of an epigynous flower?",
+    "options": ["Sunflower", "Brinjal", "Cucumber", "Mustard"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of venation is found in dicot plants?",
+    "options": ["Parallel", "Reticulate", "Both parallel and reticulate", "None"],
+    "correct": 1
+  },
+  {
+    "question": "Which part of a flower is responsible for receiving pollen grains?",
+    "options": ["Ovary", "Stigma", "Anther", "Style"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a true fruit?",
+    "options": ["Apple", "Cashew", "Tomato", "Strawberry"],
+    "correct": 2
+  },
+  {
+    "question": "The edible part of coconut is derived from which part?",
+    "options": ["Seed coat", "Endosperm", "Mesocarp", "Pericarp"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a xerophytic adaptation in desert plants?",
+    "options": ["Large leaves", "Succulent stems", "Deep roots", "Broad leaves"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of seed germination is seen in bean plants?",
+    "options": ["Epigeal", "Hypogeal", "Viviparous", "None"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following fruit types is dry and indehiscent?",
+    "options": ["Legume", "Drupe", "Nut", "Capsule"],
+    "correct": 2
+  },
+  {
+    "question": "Which part of a maize embryo stores food?",
+    "options": ["Radicle", "Plumule", "Scutellum", "Coleoptile"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of a hypogeal germination?",
+    "options": ["Bean", "Maize", "Castor", "Sunflower"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of leaf modification is seen in Australian Acacia?",
+    "options": ["Tendrils", "Spines", "Phyllode", "Succulent"],
+    "correct": 2
+  },
+  {
+    "question": "Which plant structure is responsible for water and mineral absorption?",
+    "options": ["Stem", "Leaves", "Root hairs", "Flowers"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of ovary is present in an epigynous flower?",
+    "options": ["Superior", "Half-inferior", "Inferior", "None of these"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following plants exhibits cymose inflorescence?",
+    "options": ["Sunflower", "Mustard", "China rose", "Tomato"],
+    "correct": 3
+  },
+  {
+    "question": "Which type of root modification is found in Banyan trees?",
+    "options": ["Pneumatophores", "Prop roots", "Nodulated roots", "Fasciculated roots"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of the following is an aggregate fruit?",
+    "options": ["Mango", "Guava", "Strawberry", "Tomato"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following statements is incorrect about monocots?",
+    "options": [
+      "They have fibrous root systems",
+      "Their floral parts are generally in multiples of three",
+      "They have parallel venation",
+      "They produce true vascular cambium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the function of coleoptile in a monocot seed?",
+    "options": [
+      "Protects the radicle",
+      "Protects the plumule",
+      "Stores food",
+      "Absorbs water"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the floral formula, ‘G(3)’ indicates:",
+    "options": [
+      "Three free carpels",
+      "Three fused carpels",
+      "Three free stamens",
+      "Three fused stamens"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which type of placentation is found in sunflower?",
+    "options": ["Basal", "Axile", "Marginal", "Parietal"],
+    "correct": 0
+  },
+  {
+    "question": "Which plant shows leaf tendrils as a modification for climbing?",
+    "options": ["Pea", "Pumpkin", "Cucumber", "Grapevine"],
+    "correct": 0
+  },
+  {
+    "question": "Which is the characteristic fruit of the Poaceae family?",
+    "options": ["Nut", "Caryopsis", "Berry", "Capsule"],
+    "correct": 1
+  },
+  {
+    "question": "Which among the following has hypogynous flowers?",
+    "options": ["Sunflower", "Brinjal", "Guava", "Cucumber"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is not an example of an adventitious root?",
+    "options": ["Fibrous roots of wheat", "Prop roots of banyan", "Nodulated roots of legume", "Taproot of mango"],
+    "correct": 3
+  },
+  {
+    "question": "Which family is known for its zygomorphic and papilionaceous flowers?",
+    "options": ["Fabaceae", "Solanaceae", "Liliaceae", "Brassicaceae"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is NOT a feature of dicot plants?",
+    "options": [
+      "Reticulate venation",
+      "Vascular bundles in a ring",
+      "Fibrous root system",
+      "Presence of two cotyledons"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What kind of fruit is found in leguminous plants?",
+    "options": ["Capsule", "Drupe", "Legume", "Nut"],
+    "correct": 2
+  },
+  {
+    "question": "In which family do plants exhibit a parietal placentation?",
+    "options": ["Brassicaceae", "Fabaceae", "Liliaceae", "Poaceae"],
+    "correct": 0
+  },
+  {
+    "question": "In which type of fruit does the pericarp become dry and split open upon maturity?",
+    "options": ["Berry", "Nut", "Drupe", "Capsule"],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is NOT a modification of the stem?",
+    "options": ["Runner", "Tuber", "Rhizome", "Tendril in peas"],
+    "correct": 3
+  },
+  {
+    "question": "Which type of phyllotaxy is found in Alstonia?",
+    "options": ["Opposite", "Whorled", "Alternate", "Spiral"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of inflorescence is found in family Fabaceae?",
+    "options": ["Umbel", "Spadix", "Cymose", "Racemose"],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is an example of a hypogeal germination?",
+    "options": ["Bean", "Castor", "Maize", "Sunflower"],
+    "correct": 2
+  },
+  {
+    "question": "What kind of root modification is found in sugarcane for storage?",
+    "options": ["Tuberous roots", "Fasciculated roots", "Stilt roots", "Prop roots"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of the following plants has a phyllode?",
+    "options": ["Opuntia", "Euphorbia", "Australian Acacia", "Cactus"],
+    "correct": 2
+  },
+  {
+    "question": "What is the function of perisperm in seeds?",
+    "options": ["Protection", "Food storage", "Water absorption", "Germination"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is an example of a multiple fruit?",
+    "options": ["Apple", "Pineapple", "Mango", "Peach"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of leaf arrangement is seen in China rose?",
+    "options": ["Alternate", "Opposite", "Whorled", "None"],
+    "correct": 0
+  },
+  {
+    "question": "Which type of vascular bundle is found in monocot stems?",
+    "options": ["Collateral and closed", "Collateral and open", "Radial", "Bicollateral"],
+    "correct": 0
+  },
+  {
+    "question": "Which plant family is characterized by the presence of a hypanthium?",
+    "options": ["Fabaceae", "Solanaceae", "Rosaceae", "Poaceae"],
+    "correct": 2
+  },
+  {
+    "question": "Which one of the following plants has a symbiotic relationship with nitrogen-fixing bacteria?",
+    "options": ["Mango", "Pea", "Maize", "Wheat"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is an example of a schizocarpic fruit?",
+    "options": ["Coconut", "Castor", "Carrot", "Groundnut"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a feature of a monocot root?",
+    "options": ["Presence of pith", "Open vascular bundles", "Secondary growth", "Bicollateral vascular bundles"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is an underground stem modification?",
+    "options": ["Tuber", "Tendril", "Taproot", "Stolon"],
+    "correct": 0
+  },
+  {
+    "question": "What type of germination is seen in coconut?",
+    "options": ["Epigeal", "Hypogeal", "Viviparous", "Both epigeal and hypogeal"],
+    "correct": 2
+  },
+  {
+    "question": "Which among the following has an edible mesocarp?",
+    "options": ["Peach", "Groundnut", "Maize", "Castor"],
+    "correct": 0
+  },
+  {
+    "question": "Which among the following families is known for its composite inflorescence?",
+    "options": ["Fabaceae", "Asteraceae", "Solanaceae", "Poaceae"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of root modification is found in sweet potato?",
+    "options": ["Tuberous", "Nodular", "Fusiform", "Napiform"],
+    "correct": 0
+  },
+  {
+    "question": "Which type of ovary position is seen in the Liliaceae family?",
+    "options": ["Superior", "Half-inferior", "Inferior", "None"],
+    "correct": 2
+  },
+  {
+    "question": "Which one of the following structures helps in vegetative propagation?",
+    "options": ["Fruit", "Seed", "Rhizome", "Cotyledon"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an aggregate accessory fruit?",
+    "options": ["Strawberry", "Apple", "Mango", "Peach"],
+    "correct": 0
+  },
+  {
+    "question": "Which type of pollination is found in maize?",
+    "options": ["Anemophily", "Hydrophily", "Entomophily", "Ornithophily"],
+    "correct": 0
+  },
+  {
+    "question": "Which one of the following fruits is dispersed by water?",
+    "options": ["Coconut", "Mango", "Pea", "Apple"],
+    "correct": 0
+  },
+  {
+    "question": "Which one of the following statements is correct about a drupe fruit?",
+    "options": [
+      "It develops from an apocarpous ovary",
+      "It has a fleshy mesocarp and stony endocarp",
+      "It has dry pericarp",
+      "It is a type of schizocarpic fruit"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following floral formula represents a zygomorphic flower?",
+    "options": [
+      "⚥ K(5) C5 A(9)+1 G1",
+      "⚥ K5 C5 A5 G2",
+      "⚥ K(3+3) C(3+3) A(3+3) G(3)",
+      "⚥ K5 C5 A∞ G∞"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following shows a cymose inflorescence?",
+    "options": ["Sunflower", "Hibiscus", "Tomato", "Maize"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following plants belongs to the Poaceae family?",
+    "options": ["Mustard", "Tomato", "Maize", "Sunflower"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of pollination is seen in Vallisneria?",
+    "options": ["Anemophily", "Hydrophily", "Entomophily", "Zoophily"],
+    "correct": 1
+  },
+  {
+    "question": "Which part of the seed stores food in legumes?",
+    "options": ["Cotyledons", "Endosperm", "Perisperm", "Plumule"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a dicotyledonous plant?",
+    "options": ["Wheat", "Rice", "Sunflower", "Maize"],
+    "correct": 2
+  },
+  {
+    "question": "Which among the following is a characteristic feature of solanaceous plants?",
+    "options": ["Zygomorphic flowers", "Axile placentation", "Monocarpellary ovary", "Basal placentation"],
+    "correct": 1
+  },
+  {
+    "question": "Which plant family has leaves with parallel venation?",
+    "options": ["Fabaceae", "Brassicaceae", "Liliaceae", "Asteraceae"],
+    "correct": 2
+  },
+  {
+    "question": "Which one of the following plants has a rhizome as an underground stem modification?",
+    "options": ["Carrot", "Potato", "Ginger", "Radish"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of root modification is seen in mangrove plants?",
+    "options": ["Prop roots", "Stilt roots", "Pneumatophores", "Tubercular roots"],
+    "correct": 2
+  },
+  {
+    "question": "Which part of a flower develops into a fruit?",
+    "options": ["Ovary", "Ovule", "Sepals", "Petals"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a characteristic feature of hypogynous flowers?",
+    "options": ["Superior ovary", "Inferior ovary", "Half-inferior ovary", "Syncarpous ovary"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is an example of an indehiscent dry fruit?",
+    "options": ["Legume", "Nut", "Capsule", "Follicle"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of the following plants has a pentamerous flower?",
+    "options": ["Lily", "Wheat", "Brinjal", "Maize"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of phyllotaxy is found in mustard?",
+    "options": ["Alternate", "Opposite", "Whorled", "Spiral"],
+    "correct": 0
+  },
+  {
+    "question": "In which type of pollination is the pollen carried by wind?",
+    "options": ["Entomophily", "Anemophily", "Hydrophily", "Zoophily"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of the following structures is present in dicot roots but absent in monocot roots?",
+    "options": ["Endodermis", "Casparian strips", "Vascular cambium", "Pith"],
+    "correct": 2
+  },
+  {
+    "question": "Which among the following is a monocot plant?",
+    "options": ["Pea", "Gram", "Bamboo", "Mustard"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is NOT a function of a root?",
+    "options": ["Absorption", "Conduction", "Photosynthesis", "Anchorage"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of venation is present in Peepal leaves?",
+    "options": ["Parallel", "Reticulate", "Spiral", "Dichotomous"],
+    "correct": 1
+  },
+  {
+    "question": "Which among the following families exhibits an epigynous flower arrangement?",
+    "options": ["Fabaceae", "Brassicaceae", "Asteraceae", "Solanaceae"],
+    "correct": 2
+  },
+  {
+    "question": "Which among the following plants has a palmately compound leaf?",
+    "options": ["Neem", "Sunflower", "Mustard", "Papaya"],
+    "correct": 3
+  },
+  {
+    "question": "Which one of the following families exhibits vexillary aestivation?",
+    "options": ["Brassicaceae", "Fabaceae", "Solanaceae", "Asteraceae"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of the following is an example of a drupe fruit?",
+    "options": ["Mango", "Pea", "Coconut", "Castor"],
+    "correct": 0
+  },
+  {
+    "question": "Which among the following has an endospermic seed?",
+    "options": ["Pea", "Bean", "Castor", "Gram"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of a parthenocarpic fruit?",
+    "options": ["Tomato", "Banana", "Brinjal", "Apple"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of root modification helps in mechanical support?",
+    "options": ["Tuberous roots", "Fasciculated roots", "Stilt roots", "Nodular roots"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of a racemose inflorescence?",
+    "options": ["Sunflower", "Tomato", "Mustard", "Jasmine"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following families is known for producing pulses?",
+    "options": ["Fabaceae", "Solanaceae", "Liliaceae", "Poaceae"],
+    "correct": 0
+  },
+  {
+    "question": "Which one of the following plant families exhibits radial symmetry in flowers?",
+    "options": ["Fabaceae", "Solanaceae", "Brassicaceae", "Liliaceae"],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following plants belongs to the family Brassicaceae?",
+    "options": ["Tomato", "Mustard", "Pea", "Maize"],
+    "correct": 1
+  },
+  {
+    "question": "Which among the following is a characteristic feature of Fabaceae?",
+    "options": ["Cruciform corolla", "Vexillary aestivation", "Epigynous flowers", "Cymose inflorescence"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following has a pome fruit?",
+    "options": ["Tomato", "Apple", "Banana", "Mango"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of placentation is seen in Solanaceae?",
+    "options": ["Basal", "Axile", "Parietal", "Marginal"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is an example of an epigynous flower?",
+    "options": ["Pea", "Mustard", "Sunflower", "Brinjal"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of aestivation is observed in Fabaceae?",
+    "options": ["Twisted", "Vexillary", "Valvate", "Imbricate"],
+    "correct": 1
+  },
+  {
+    "question": "Which among the following has a hypogynous flower?",
+    "options": ["Guava", "Tomato", "Sunflower", "Peach"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of the following plants belongs to the Poaceae family?",
+    "options": ["Tomato", "Mustard", "Wheat", "Brinjal"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of root modification is observed in Maize?",
+    "options": ["Nodulated roots", "Stilt roots", "Pneumatophores", "Prop roots"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of fruit is observed in Fabaceae?",
+    "options": ["Berry", "Legume", "Drupe", "Capsule"],
+    "correct": 1
+  },
+  {
+    "question": "Which part of a dicot seed stores food?",
+    "options": ["Endosperm", "Cotyledon", "Perisperm", "Epicotyl"],
+    "correct": 1
+  },
+  {
+    "question": "Which one of the following has an edible pericarp?",
+    "options": ["Apple", "Coconut", "Maize", "Groundnut"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following exhibits a scaly bulb?",
+    "options": ["Garlic", "Onion", "Potato", "Ginger"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of inflorescence is present in the sunflower plant?",
+    "options": ["Cymose", "Capitulum", "Spadix", "Umbel"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of fruit is found in maize?",
+    "options": ["Nut", "Caryopsis", "Legume", "Drupe"],
+    "correct": 1
+  },
+  {
+    "question": "Which family is characterized by the presence of an androecium with stamens in multiples of three?",
+    "options": ["Fabaceae", "Poaceae", "Liliaceae", "Brassicaceae"],
+    "correct": 2
+  },
+  {
+    "question": "Which part of the plant is modified into a tendril in peas?",
+    "options": ["Leaf", "Stem", "Root", "Flower"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a distinguishing feature of monocots?",
+    "options": ["Reticulate venation", "Two cotyledons", "Fibrous root system", "Secondary growth"],
+    "correct": 2
+  },
+  {
+    "question": "Which type of leaf is found in coriander?",
+    "options": ["Simple", "Pinnately compound", "Palmately compound", "Bipinnately compound"],
+    "correct": 3
+  },
+  {
+    "question": "Which type of fruit is formed from a single ovary and does not dehisce at maturity?",
+    "options": ["Drupe", "Legume", "Capsule", "Follicle"],
+    "correct": 0
+  },
+  {
+    "question": "Which family is known for producing cereals?",
+    "options": ["Fabaceae", "Poaceae", "Liliaceae", "Solanaceae"],
+    "correct": 1
+  },
+  {
+    "question": "Which type of inflorescence is found in onion?",
+    "options": ["Cymose", "Umbel", "Spadix", "Capitulum"],
+    "correct": 1
+  },
+  {
+    "question": "Which among the following has a winged seed?",
+    "options": ["Cotton", "Castor", "Groundnut", "Pea"],
+    "correct": 0
+  },
+  {
+    "question": "Which type of venation is observed in dicots?",
+    "options": ["Parallel", "Reticulate", "Dichotomous", "Spiral"],
+    "correct": 1
+  }
+]
